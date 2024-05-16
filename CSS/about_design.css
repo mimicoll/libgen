@@ -363,7 +363,7 @@ html {
 /*=========================== H E R O =========================== */
 .hero {
     width: 100%;
-    background-image: url("/libgen/CSS/photos/aboutphotos/herobg.png");
+    background-image: url("/photos/aboutphotos/herobg.png");
     background-position: bottom;
     background-size: cover;
     color: rgb(0, 0, 0);
